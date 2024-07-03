@@ -1,1 +1,3 @@
 Hello, its first txt file
+
+Строка из новой ветки
