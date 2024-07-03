@@ -1,1 +1,2 @@
 Hello, its first txt file
+Это строка из основной ветки
